@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-maple-emojimix",
-  "description": "\u0016\u0016Emojimix Plugin for Koishi",
-  "version": "0.0.1",
+  "description": "Emojimix Plugin for Koishi",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -9,13 +9,20 @@
     "dist"
   ],
   "license": "MIT",
-  "scripts": {},
+  "author": "maple <200214zef@gmail.com>",
   "keywords": [
     "chatbot",
     "koishi",
     "plugin"
   ],
-  "devDependencies": {},
+  "homepage": "https://github.com/Maple-214/koishi-plugin-maple-emojimix",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maple-214/koishi-plugin-maple-emojimix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Maple-214/koishi-plugin-maple-emojimix/issues"
+  },
   "peerDependencies": {
     "koishi": "4.17.11"
   }

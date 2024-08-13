@@ -9,16 +9,12 @@
     "composite": true,
     "incremental": true,
     "skipLibCheck": true,
-    "esModuleInterop": true,
     "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
     "jsx": "react-jsx",
     "jsxImportSource": "@satorijs/element",
-    "types": [
-      "node",
-      "yml-register/types"
-    ]
+    "types": ["node", "yml-register/types"]
   },
-  "include": [
-    "src"
-  ]
+  "include": ["src/**/*", "src/data.json", "fetch_data.js"]
 }
