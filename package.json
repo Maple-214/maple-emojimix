@@ -15,13 +15,13 @@
     "koishi",
     "plugin"
   ],
-  "homepage": "https://github.com/Maple-214/koishi-plugin-maple-emojimix",
+  "homepage": "https://github.com/Maple-214/maple-emojimix",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Maple-214/koishi-plugin-maple-emojimix.git"
+    "url": "git+https://github.com/Maple-214/maple-emojimix.git"
   },
   "bugs": {
-    "url": "https://github.com/Maple-214/koishi-plugin-maple-emojimix/issues"
+    "url": "https://github.com/Maple-214/maple-emojimix/issues"
   },
   "peerDependencies": {
     "koishi": "4.17.11"
